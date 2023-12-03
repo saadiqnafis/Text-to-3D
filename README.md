@@ -9,4 +9,4 @@ Secondly, most 3D designing softwares come with a very high cost. They have expe
 
 Moreover, for 3D designing, computers with advanced hardwares are required, and without such advanced hardwares, the designing software will lag quite often.
 
-Designing is often an iterative process, and as 3D modelling is a complex process, it requires enormous time to come up with a fruitful model
+Designing is often an iterative process, and as 3D modelling is a complex process, it requires enormous time to come up with a fruitful model. For these reasons, we decided to build an AI model that can generate 3D models based on commands
