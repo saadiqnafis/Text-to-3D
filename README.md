@@ -1,6 +1,6 @@
 # Text-to-3D
 
-I worked with my friends Cathy and Michael for developing this Text to 3D AI model. Out model will take the textual form of our ideas as input and generate a 3D model on the basis of that.
+I worked with my friends Cathy and Michael for developing this Text to 3D AI model. Our model will take the textual form of our ideas as input and generate a 3D model on the basis of that.
 
 # Inspiration:
 First of all, 3D designing is a really complex process. Unlike 2D designing which can be as simple as drawing on a canvas, it requires much effort for adopting 3d modelling skills, so the learning curve is quite steep. 
